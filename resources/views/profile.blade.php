@@ -5,7 +5,7 @@
 <head>
     <!-- Basic Page Needs
 	================================================== -->
-    <title>Legends RolePlay - Site Web</title>
+    <title>Next-Level RolePlay - Site Web</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="eSports Team &amp; Gaming HTML Template">

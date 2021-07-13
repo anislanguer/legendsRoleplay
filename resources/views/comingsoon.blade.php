@@ -5,7 +5,7 @@
 <head>
     <!-- Basic Page Needs
 	================================================== -->
-    <title>Legends RolePlay - Site Web</title>
+    <title>Next-Level RolePlay - Site Web</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="eSports Team &amp; Site Web">
@@ -49,7 +49,7 @@
 		================================================== -->
         <main class="site-content text-center" id="wrapper">
             <div class="site-content__center">
-                <h1 class="text-white landing-title"><span class="subtitle landing-subtitle" style="color:rgb(255, 187, 0)">LEGENDS ROLEPLAY</span>COMING SOON</h1>
+                <h1 class="text-white landing-title"><span class="subtitle landing-subtitle" style="color:rgb(255, 187, 0)">NEXT-LEVEL ROLEPLAY</span>COMING SOON</h1>
                 </a> <br> <a href="https://discord.gg/Ybr5WysssP" class="btn btn-warning btn-lg btn--landing"><span>Visit Discord</span></a></div>
         </main>
         <!-- Footer

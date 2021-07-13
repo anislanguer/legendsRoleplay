@@ -5,7 +5,7 @@
 <head>
     <!-- Basic Page Needs
 	================================================== -->
-    <title>Legends RolePlay - Login / register</title>
+    <title>Next-Level RolePlay - Login / register</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="eSports Team &amp; Gaming HTML Template">
@@ -58,7 +58,7 @@
         <main class="site-content login-page" id="wrapper">
             <div class="row">
                 <div class="col-md-6">
-                    <h2 class="h4">LEGENDS ROLEPLAY</h2>
+                    <h2 class="h4">NEXT-LEVEL ROLEPLAY</h2>
                     <form action="#" class="form login-form">
 
                         <div class="login-form__info">login or register with your steam account</div><a href="{{route('auth.steam')}}" class="btn btn-block login-form__facebook-button"><i class="fab fa-steam">&nbsp;</i>Login with steam</a>

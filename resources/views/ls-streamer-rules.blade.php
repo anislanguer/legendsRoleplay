@@ -5,7 +5,7 @@
 <head>
     <!-- Basic Page Needs
 	================================================== -->
-    <title>Legends RolePlay - EMS Rules</title>
+    <title>Next-Level RolePlay - EMS Rules</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="eSports Team &amp; Gaming HTML Template">
@@ -67,7 +67,7 @@
                                     <div class="row">
                                         <div class="col-7 col-md-7 col-x4-4">
                                             <div class="player-info-detail">
-                                                <div class="player-info-detail__title">•bch tkoun content creator f LEGENDS ROLEPLAY lezm taady app .. bch ykoun fama nombre limité donc rakez mlih fl app
+                                                <div class="player-info-detail__title">•bch tkoun content creator f NEXT-LEVEL ROLEPLAY lezm taady app .. bch ykoun fama nombre limité donc rakez mlih fl app
                                                     <br><br>•App Content Creator heya l'image taa serveur tanjem tanf3ou kima tnajem tdhorou bch tkoun s3iba w bch ykoun spectated mn aand staff akther ml players lokhryn
                                                     <br><br>•bch ykoun fama Creator In Test ynajem ykoun Streamer wala yaaml des videos</div>
                                             </div>
@@ -88,7 +88,7 @@
                                         <div class="col-7 col-md-7 col-x4-4">
                                             <div class="player-info-detail">
                                                 <div class="player-info-detail__title">•ki tebda creator in test ma aandekch lhaq thabet stream links f serveur tebaathou l CREATOR MANAGER w howa chouf lcontenu mteek w ytestik
-                                                    <br><br>•ki tebda creator f LEGENDS mamnou3 enek testreami fi ay serveur ekher sinn tetnahalk role
+                                                    <br><br>•ki tebda creator f NEXT-LEVEL mamnou3 enek testreami fi ay serveur ekher sinn tetnahalk role
                                                     <br><br>•f stream mteek !!! INTERDIT !!! enek taaml ay mochkel maa ay serveur ekher sinn tetnahalk role w t3aredh rouhek l sanction
                                                     <br><br>•baaed periode tebda actif o nty CIT (creator in test) w tekhdem fi khedma mezeyan tekhou role Content Creator w twali thabet streams mteek f room #streams w kenek taaml des videos w highlights
                                                     tnajm thabathom fi room #videos</div>
@@ -112,7 +112,7 @@
                                                     <br><br>•mamnou3 enek temchy l lblayes lfarm mtaa drugs wla tkharej aalihom ay info f stream ( ken lzem nahy screen f lahdha edhyka)
                                                     <br><br>•lezmk tghady radio mte3ek f stream
                                                     <br><br>•ken tebreaky rules hedhom yeetnahalk role w tnajem t3ared rouhek lban
-                                                    <br><br>•content creators will have privileges in our server LEGENDS ROLEPLAY </div>
+                                                    <br><br>•content creators will have privileges in our server NEXT-LEVEL ROLEPLAY </div>
                                             </div>
                                         </div>
                                     </div>

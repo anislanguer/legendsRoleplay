@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="zxx">
-<!-- Mirrored from necromancers.dan-fisher.dev/management-and-staff.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 23 Apr 2021 21:57:46 GMT -->
+
 
 <head>
     <!-- Basic Page Needs
 	================================================== -->
-    <title>Legends RolePlay - Compacts Cars</title>
+    <title>Next-Level RolePlay - Compacts Cars</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="eSports Team &amp; Gaming HTML Template">
@@ -57,7 +57,7 @@
 		================================================== -->
         <main class="site-content" id="wrapper">
             <div class="page-heading page-heading--loop bg-image bg--ph-02">
-                <div class="page-heading__subtitle h5 color-primary">legends roleplay</div>
+                <div class="page-heading__subtitle h5 color-primary">nextlevel roleplay</div>
                 <h1 class="page-heading__title h2">compacts<br>cars</h1>
             </div>
             <div class="content staff-layout">

@@ -5,12 +5,12 @@
 <head>
     <!-- Basic Page Needs
 	================================================== -->
-    <title>Legends RolePlay - Site Web</title>
+    <title>Next-Level RolePlay - Site Web</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Legends Roleplay Dev Team">
+    <meta name="description" content="Next-Level Roleplay Dev Team">
     <meta name="author" content="zikawich,bangii,hamma">
-    <meta name="keywords" content="legends rp roleplay web">
+    <meta name="keywords" content="nextlevel rp roleplay web">
     <!-- Favicons
 	================================================== -->
     <link rel="shortcut icon" href="assets/img/favicons/favicon.ico">
@@ -123,7 +123,7 @@
 		================================================== -->
         <main class="site-content text-center" id="wrapper">
             <div class="site-content__center">
-                <h1 class="text-white landing-title"><span class="subtitle landing-subtitle">W  E  L  C  O  M  E</span>LEGENDS ROLEPLAY</h1>@forelse($users as $user)<a href="assets\launcher\legendsLauncherSetup.rar" class="btn btn-warning btn-lg btn--landing"><span>Download Launcher</span></a><br> <a href="https://discord.gg/Ybr5WysssP"
+                <h1 class="text-white landing-title"><span class="subtitle landing-subtitle">W  E  L  C  O  M  E</span>NEXT-LEVEL ROLEPLAY</h1>@forelse($users as $user)<a href="assets\launcher\legendsLauncherSetup.rar" class="btn btn-warning btn-lg btn--landing"><span>Download Launcher</span></a><br> <a href="https://discord.gg/Ybr5WysssP"
                     class="btn btn-warning btn-lg btn--landing"><span>Visit Discord</span></a>@empty<a href="https://discord.gg/Ybr5WysssP"
                     class="btn btn-warning btn-lg btn--landing"><span>Visit Discord</span></a>@endforelse</div>
         </main>
@@ -131,10 +131,10 @@
 		================================================== -->
         <footer id="footer" class="footer text-center">
             <ul class="social-menu social-menu--landing social-menu--landing-glitch">
-                <li><a href="https://www.facebook.com/legendsofficiel10" target="_blank"><i class="fab fa-facebook-square" ></i> <span class="link-subtitle">Facebook</span>Legends RolePlay</a></li>
-                <li><a href="https://www.youtube.com/channel/UCGlaZEn7fLdCC60MNm6ErXQ" target="_blank"><i class="fab fa-youtube" ></i> <span class="link-subtitle">YouTube</span>Legends RolePlay</a></li>
-                <li><a href="https://www.instagram.com/legendsofficiel10/" target="_blank"><i class="fab fa-instagram" ></i> <span class="link-subtitle">Instagram</span>Legends RolePlay</a></li>
-                <!-- <li><a href="https://discordapp.com/" target="_blank"><i class="fab fa-discord" style="color:rgb(255, 187, 0)"></i> <span class="link-subtitle">Discord</span>Legends RolePlay</a></li> --!>
+                <li><a href="https://www.facebook.com/legendsofficiel10" target="_blank"><i class="fab fa-facebook-square" ></i> <span class="link-subtitle">Facebook</span>Next-Level RolePlay</a></li>
+                <li><a href="https://www.youtube.com/channel/UCGlaZEn7fLdCC60MNm6ErXQ" target="_blank"><i class="fab fa-youtube" ></i> <span class="link-subtitle">YouTube</span>Next-Level RolePlay</a></li>
+                <li><a href="https://www.instagram.com/legendsofficiel10/" target="_blank"><i class="fab fa-instagram" ></i> <span class="link-subtitle">Instagram</span>Next-Level RolePlay</a></li>
+                <!-- <li><a href="https://discordapp.com/" target="_blank"><i class="fab fa-discord" style="color:rgb(255, 187, 0)"></i> <span class="link-subtitle">Discord</span>Next-Level RolePlay</a></li> --!>
             </ul>
         </footer>
         <!-- Footer / End -->
